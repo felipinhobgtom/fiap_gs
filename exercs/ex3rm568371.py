@@ -1,3 +1,5 @@
+# FELIPE BARROS DE GOUVEIA TOME RM568371
+
 with open('Linux.log', 'r', encoding='utf-8') as log:
     logs = []
     rhosts= []

@@ -1,3 +1,5 @@
+# FELIPE BARROS DE GOUVEIA TOME RM568371
+
 while True:
     numeros = input('Digite três números separados por espaço: ')
     lista_numeros = numeros.split(' ')
